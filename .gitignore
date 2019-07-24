@@ -9,3 +9,6 @@
 
 # VScode
 .VScode/
+
+/notebooks/mlruns/
+mlruns/
